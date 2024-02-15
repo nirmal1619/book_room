@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992893670110",
+    "project_id": "book-room-c4c07",
+    "storage_bucket": "book-room-c4c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992893670110:android:9a56d00e81750184bd284f",
+        "android_client_info": {
+          "package_name": "com.example.book_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa03J_gP3fRE1h1ezBR7Lg9sq2x-5zUZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
